@@ -1,0 +1,17 @@
+{
+  "name": "markov-text-generator",
+  "version": "1.0.0",
+  "description": "Markov text generator based on inputted text",
+  "main": "index.js",
+  "scripts": {
+    "start": "node.index.js"
+  },
+  "keywords": [
+    "markov",
+    "chains",
+    "text",
+    "generator"
+  ],
+  "author": "@qktweets",
+  "license": "MIT"
+}
